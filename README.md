@@ -1,2 +1,2 @@
 # Deeplarning-basic-code-from-scratch
-공부
+공부.
